@@ -48,6 +48,6 @@ Put the above bda.py content into python file.</h3>
 <code>twistd -noy your_file_name.py &</code>
   
 <h3>Test the web service with user id “37”</h3>
-<code>curl localhost:8081/37</code>
+<code>curl localhost:8083/37</code>
 
 
